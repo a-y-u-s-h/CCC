@@ -1,4 +1,4 @@
-# Discoveries
-This repository holds my creations in C++ based creative coding platforms like `Openframeworks`, `Cinder`, etc. I started with `Experiments in JS` series, which is cool : allows me to share cool things to masses really quickly with just one link. 
+# Creative C | C++ 
 
-But sometimes I require much more performance from hardware which is possible only from slightly lower level langauges like C++, C, etc. Possible from `Processing` as well, but I've made a separate repository : `sketchez` for that. This series is named `discoveries` because..I don't know what I'll learn as I make things!
+This repository holds my creative coding projects made in languages : C | C++. Most of the time my job's done with JS and Processing, but sometimes there's a need for superb performance from hardware, which is achievable when using C / C++ based
+creative coding platforms or libraries like Openframeworks or Cinder.
